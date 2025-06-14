@@ -6,4 +6,4 @@
 #支持指定架构
 #--platform=linux/arm64 xiaoyaliu/alist
 #--platform=linux/amd64 hanxi/xiaomusic:v0.3.83
---platform=linux/amd64 bitmagnet-io/bitmagnet:v0.10.0
+--platform=linux/X86 bitmagnet-io/bitmagnet:v0.10.0
